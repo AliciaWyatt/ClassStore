@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.List;
 
 //creates an inventory item object - an array of attributes
 public class InventoryItem extends ArrayList<Object>{	
